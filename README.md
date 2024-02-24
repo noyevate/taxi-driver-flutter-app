@@ -27,12 +27,6 @@ https://www.behance.net/patelzikar?ref=uistore.design
 #FlutterDevelopment #SwiftUIDevelopment #TaxiApp #AngularMaterialBackend #NodejsExpressAPI #CompleteAppDevelopment #MobileAppDevelopment #CrossPlatformApp #iOSAppDevelopment #FlutterVsSwiftUI #BackendDevelopment #RESTAPI #RealTimeTracking #PaymentProcessing #RideBooking #LocationTracking #AppDesign #AppTutorial #FullStackDevelopment #DeveloperCommunity #CodingTutorial #AppDevelopmentTutorial #MobileApp #ProgrammingTutorial
 
 
-# codeforany @codeforany
-
-- [Youtube Full Playlist:Complete Taxi App Development in Flutter with Angular Material Backend | Node.js Express.js REST API Playlist](https://www.youtube.com/playlist?list=PLzcRC7PA0xWQ-hxjfD8gMFy7ciFWSIl-G)
-- [Youtube Channel: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg)
-- [Youtube Channel Subscribe: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg?sub_confirmation=1)
-
 
 A new Flutter project.
 
